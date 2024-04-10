@@ -1,0 +1,14 @@
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Desktop\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
